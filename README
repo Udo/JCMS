@@ -1,0 +1,7 @@
+A very simple mysql-based web content management system we did back in the day
+for the Tomcat server in Java. Supports pages, and templated blocks within pages. 
+This was commercially used by some pretty high-profile corporate sites for a while. 
+Now I'm putting this here as an open source download with a BSD license, to whom
+it might concern. :-)
+
+If you have trouble getting it to run, please drop me a message.
